@@ -1,1 +1,1 @@
-heelo
+The Relationship between the product and the product_category table is One to Many relationship,where we can also access and manipulate the category_id from the product_category tables directly without making any changes in the product table.The category_id acts as Primary key for product_category table.
